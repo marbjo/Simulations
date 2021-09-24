@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import animation
 import numpy as np
-from itertools import combinations
 from mpl_toolkits.mplot3d import Axes3D
 
 
